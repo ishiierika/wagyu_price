@@ -58,10 +58,7 @@ p {
   .row {
     margin-bottom: 30px;
   }
-}
-
-@media screen and (max-width: 575px){
-    #page-top {display:none}
+  #page-top {display:none}
 }
 
 .submit-color {
