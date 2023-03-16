@@ -1,3 +1,4 @@
+
 body {
   background-color: #343a40;
 }
@@ -19,6 +20,8 @@ p {
   color: #fff;
 }
 
+
+
 .content-width {
   max-width: 1200px;
   margin: 0 auto;
@@ -37,8 +40,8 @@ p {
   .row {
     margin-bottom: 30px;
   }
+  }
 }
-
 
 .submit-color {
   background-color: #17a2b8;
